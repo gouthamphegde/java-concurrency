@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.gouthamphegde</groupId>
-    <artifactId>java-concurrency-practice</artifactId>
+    <artifactId>learn-by-doing-java</artifactId>
     <version>0.1.0-SNAPSHOT</version>
-    <name>java-concurrency-practice</name>
+    <name>learn-by-doing-java</name>
     <description>Hands-on Java 21 concurrency practice repository.</description>
 
     <properties>
